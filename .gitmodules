@@ -2,3 +2,8 @@
 	path = Integrated-Path/report_xlsx
 	url = git@github.com:Integrated-Path/report_xlsx.git
 	branch = 16.0
+
+[submodule "Integrated-Path/od_aaf_custom"]
+	path = Integrated-Path/od_aaf_custom
+	url = git@github.com:Integrated-Path/od_aaf_custom.git
+	branch = master
