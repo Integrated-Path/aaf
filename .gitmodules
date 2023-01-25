@@ -7,3 +7,8 @@
 	path = Integrated-Path/od_aaf_custom
 	url = git@github.com:Integrated-Path/od_aaf_custom.git
 	branch = master
+
+[submodule "Integrated-Path/od_aaf_extend"]
+	path = Integrated-Path/od_aaf_extend
+	url = git@github.com:Integrated-Path/od_aaf_extend.git
+	branch = master
