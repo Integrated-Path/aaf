@@ -1,11 +1,1 @@
-[submodule "Integrated-Path/report_xlsx"]
-	path = Integrated-Path/report_xlsx
-	url = git@github.com:Integrated-Path/report_xlsx.git
-	branch = 16.0
 
-
-
-[submodule "Integrated-Path/od_aaf_extend"]
-	path = Integrated-Path/od_aaf_extend
-	url = git@github.com:Integrated-Path/od_aaf_extend.git
-	branch = master
